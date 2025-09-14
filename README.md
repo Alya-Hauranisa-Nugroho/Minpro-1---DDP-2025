@@ -24,11 +24,13 @@ Berikut merupakan flowchart dari program **Sistem Manajemen Pemesanan Bouquet Bu
 - Saat membuka program, pengguna akan diminta untuk input angka dari 1-5 untuk memilih menu yang tersedia
 <img width="591" height="264" alt="image" src="https://github.com/user-attachments/assets/31f49689-c1b9-44b8-86a9-7cccf2f4d46c" />
 
-- Apabila angka menu yang diinput tidak sesuai, maka program akan menampilkan "Yahh... Menu yang kamu pilih tidak valid :("
+- Apabila angka menu yang diinput tidak sesuai, maka program akan terhenti menampilkan "Yahh... Menu yang kamu pilih tidak valid :("
 <img width="749" height="273" alt="image" src="https://github.com/user-attachments/assets/47bbf634-998c-4831-93fc-f532b0edd8f7" />
 
 
 ## Menu 1 - Masukkan Orderan Baru
+<img width="650" height="234" alt="image" src="https://github.com/user-attachments/assets/d259e5ea-b204-472a-8183-cb9bebd00e20" />
+
 - Pada menu ini, pengguna akan diminta untuk memasukkan input nama pemesan, No HP, paket bouquet yang dipilih, custom (+add on bunga), warna wrapping paper, serta tanggal pengambilan.
 <img width="606" height="514" alt="image" src="https://github.com/user-attachments/assets/d1c7b624-e23f-4c18-b4c2-aa9b174935f7" />
 
@@ -42,6 +44,9 @@ Berikut merupakan flowchart dari program **Sistem Manajemen Pemesanan Bouquet Bu
 <img width="496" height="206" alt="image" src="https://github.com/user-attachments/assets/6d13a10c-5cf0-47cc-890e-5b7caaebffa1" />
 
 ## Menu 2 - Lihat Orderan
+- Menu ini memungkinkan pengguna untuk melihat orderan yang ada
+<img width="703" height="232" alt="image" src="https://github.com/user-attachments/assets/6596a20b-0bd4-403f-aa29-b752f6e886f1" />
+
 - Apabila jumlah list orderan = 0, maka program akan menampilkan output "Belum ada orderan, nih :("
 <img width="575" height="81" alt="image" src="https://github.com/user-attachments/assets/c0cae574-2763-4dd9-b045-b093ba9f9af0" />
 
@@ -49,6 +54,9 @@ Berikut merupakan flowchart dari program **Sistem Manajemen Pemesanan Bouquet Bu
 <img width="1010" height="374" alt="image" src="https://github.com/user-attachments/assets/ba15cef0-1029-4939-ae3d-96aceed7e845" />
 
 ## Menu 3 - Update Status Orderan
+- Menu ini memungkinkan pengguna untuk update status dari sebuah orderan
+<img width="639" height="195" alt="image" src="https://github.com/user-attachments/assets/f98fca0b-c4f0-4753-bae3-128bb458352a" />
+
 - Apabila jumlah list orderan = 0, maka program akan menampilkan output "Oh noo, belum ada orderan buat diupdate :("
 <img width="670" height="78" alt="image" src="https://github.com/user-attachments/assets/d8697bdc-cd2c-402d-853c-16fe5ee42266" />
 
@@ -61,6 +69,9 @@ Berikut merupakan flowchart dari program **Sistem Manajemen Pemesanan Bouquet Bu
 
 
 ## Menu 4 - Hapus Orderan
+- Menu ini memungkinkan pengguna untuk menghapus orderan yang ada
+<img width="712" height="229" alt="image" src="https://github.com/user-attachments/assets/1003bacf-9ab9-417a-8dfb-ad843edeb3bd" />
+
 - Apabila jumlah list orderan = 0, maka program akan menampilkan output "Belum ada orderan yang bisa dihapus :p"
 <img width="702" height="78" alt="image" src="https://github.com/user-attachments/assets/bc3341ec-3698-4ef8-9b8e-60e283ef55ec" />
 
