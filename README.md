@@ -24,11 +24,12 @@ Berikut merupakan flowchart dari program **Sistem Manajemen Pemesanan Bouquet Bu
 - Saat membuka program, pengguna akan diminta untuk input angka dari 1-5 untuk memilih menu yang tersedia
 <img width="591" height="264" alt="image" src="https://github.com/user-attachments/assets/31f49689-c1b9-44b8-86a9-7cccf2f4d46c" />
 
-- Apabila angka menu yang diinput tidak sesuai, maka program akan terhenti menampilkan "Yahh... Menu yang kamu pilih tidak valid :("
+- Apabila angka menu yang diinput tidak sesuai, maka program akan terhenti dan menampilkan "Yahh... Menu yang kamu pilih tidak valid :("
 <img width="749" height="273" alt="image" src="https://github.com/user-attachments/assets/47bbf634-998c-4831-93fc-f532b0edd8f7" />
 
 
 ## Menu 1 - Masukkan Orderan Baru
+- Menu ini memungkinkan pengguna menambahkan orderan baru ke dalam list orderan
 <img width="650" height="234" alt="image" src="https://github.com/user-attachments/assets/d259e5ea-b204-472a-8183-cb9bebd00e20" />
 
 - Pada menu ini, pengguna akan diminta untuk memasukkan input nama pemesan, No HP, paket bouquet yang dipilih, custom (+add on bunga), warna wrapping paper, serta tanggal pengambilan.
