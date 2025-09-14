@@ -22,4 +22,10 @@ Berikut merupakan flowchart dari program **Sistem Manajemen Pemesanan Bouquet Bu
 
 # Alur Program
 
-Saat membuka program, pengguna akan diminta untuk input angka 1-5 un
+- Saat membuka program, pengguna akan diminta untuk input angka dari 1-5 untuk memilih menu yang tersedia
+<img width="591" height="264" alt="image" src="https://github.com/user-attachments/assets/31f49689-c1b9-44b8-86a9-7cccf2f4d46c" />
+## Menu 1 - Masukkan Orderan Baru
+- Pada menu ini, pengguna akan diminta untuk memasukkan input nama pemesan, No HP, paket bouquet yang dipilih, custom (+add on bunga), warna wrapping paper, serta tanggal pengambilan
+<img width="606" height="514" alt="image" src="https://github.com/user-attachments/assets/d1c7b624-e23f-4c18-b4c2-aa9b174935f7" />
+
+
