@@ -5,21 +5,21 @@ NIM: 2509116005\
 Kelas: Sistem Informasi A 2025
 
 # Deskripsi Singkat
-Program Python yang saya buat adalah **Sistem Manajemen Pemesanan Bouquet Bunga,** yang dapat dimanfaatkan oleh pengguna(florist/owner) 
+Program Python sederhana yang saya buat ini berjudul **"Sistem Manajemen Pemesanan Bouquet Bunga"**. Program ini dapat dimanfaatkan oleh pengguna(florist/owner) 
 untuk mencatat dan memilah orderan yang masuk, sehingga memudahkan pengguna untuk memanajemen dan mengatur pesanan yang ada. Selain itu, 
-Program ini juga telah memuat seluruh sistem CRUD (Create, Read, Update, dan Delete).
-### **Menu yang disediakan, meliputi:**
-1. Masukkan Orderan Baru
-2. Lihat Orderan
-3. Update Status Orderan
-4. Hapus Orderan
-5. Keluar
+program ini juga telah memuat seluruh sistem CRUD (Create, Read, Update, dan Delete).
+### **Program ini memiliki beberapa menu yang tersedia, yakni:**
+1. Dapat memasukkan orderan baru
+2. Dapat melihat orderan yang ada
+3. Dapat mengupdate status orderan
+4. Dapat menghapus orderan
+5. Keluar dari program
 
 # Flowchart
 Berikut merupakan flowchart dari program **Sistem Manajemen Pemesanan Bouquet Bunga**\
-Flowchart ini dibuat untuk memahami bagaimana program berjalan di masing-masing menu.\
-<img width="10115" height="9860" alt="MINPRO1 drawio (4)" src="https://github.com/user-attachments/assets/83f6d01f-2786-4cb9-81de-cc4c5e6cc2f0" />
+<img width="10115" height="9860" alt="MINPRO1 drawio (5)" src="https://github.com/user-attachments/assets/b0aa8f49-9563-44f3-9307-429a027f6f04" />
+
 
 # Alur Program
 
-Program ini merupakan 
+Saat membuka program, pengguna akan diminta untuk input angka 1-5 un
